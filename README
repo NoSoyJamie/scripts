@@ -1,0 +1,3 @@
+Random scripts i've written that have use to me
+
+twitch-dl: downloads a twitch VOD and relevant chat messages, embeds chat into vod as subtitles. I'm too lazy to list dependencies but you should be able to figure it out by looking at it, its like 10 lines. Windows version never, I cannabalized the windows version destructively to write this version.
